@@ -62,27 +62,24 @@ public class JohnZ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=johnzjohn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnzjohn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+<!-- IMPORTANT: Replace YOUR_USERNAME with your actual GitHub username -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnzjohn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
 
 </div>
 
 ---
 
-
 ## 📈 Contribution Chart
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/40c463/johnzjohn" alt="GitHub Contributions" width="90%" />
-
-<br>
-
-<sub>231 contributions in 2026 — Jan to Mar active streak 🔥</sub>
+<!-- IMPORTANT: Replace YOUR_USERNAME with your actual GitHub username -->
+<img src="https://ghchart.rshah.org/40c463/YOUR_USERNAME" alt="GitHub Contributions" width="90%" />
 
 </div>
 
@@ -92,7 +89,8 @@ public class JohnZ
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=johnzjohn&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<!-- IMPORTANT: Replace YOUR_USERNAME with your actual GitHub username -->
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
 
 </div>
 
@@ -113,9 +111,10 @@ public class JohnZ
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnzjohn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnz)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnz@email.com)
+<!-- IMPORTANT: Replace YOUR_USERNAME and links with your actual info -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -123,22 +122,13 @@ public class JohnZ
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=johnzjohn&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br><br>
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <br>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnzjohn/johnzjohn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnzjohn/johnzjohn/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/johnzjohn/johnzjohn/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<br><br>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1a2e&height=120&section=footer" width="100%" />
