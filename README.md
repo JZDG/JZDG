@@ -1,18 +1,9 @@
-
----
-
 ## `// ABOUT ME`
 
-yaml
 name:     John Zel De Guzman
-status:   [ ONLINE ]
 location: Philippines 🇵🇭
 role:     Developer / Builder
 focus:    [ Web Dev, Mobile, Software Engineering ]
-mood:     Bored
-
-
-> "N0 H4T3 JU$T PL4Y"
 
 ---
 
@@ -32,20 +23,4 @@ mood:     Bored
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
-
----
-
-## `// CURRENTLY`
-
-bash
-$ ls -la /current_status/
-
-🔭  working_on/     → [ building something cool ]
-🌱  learning/       → [ leveling up my skills ]
-👯  open_to/        → [ collabs & open source ]
-💬  ask_me_about/   → [ dev stuff, code, anything ]
-⚡  fun_fact/       → [ I debug better at 2am ]
-
-
----
 
