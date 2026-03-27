@@ -58,26 +58,31 @@ public class JohnZ
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=johnz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnz&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=johnzjohn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnzjohn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnzjohn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+
+## 📈 Contribution Chart
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" />
+<img src="https://ghchart.rshah.org/40c463/johnzjohn" alt="GitHub Contributions" width="90%" />
+
+<br>
+
+<sub>231 contributions in 2026 — Jan to Mar active streak 🔥</sub>
 
 </div>
 
@@ -87,7 +92,7 @@ public class JohnZ
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=johnz&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=johnzjohn&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
 
 </div>
 
@@ -108,7 +113,7 @@ public class JohnZ
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnzjohn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnz@email.com)
 
@@ -118,7 +123,7 @@ public class JohnZ
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=johnz&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=johnzjohn&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br><br>
 
@@ -128,9 +133,9 @@ public class JohnZ
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnz/johnz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnz/johnz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/johnz/johnz/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnzjohn/johnzjohn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnzjohn/johnzjohn/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/johnzjohn/johnzjohn/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 <br><br>
