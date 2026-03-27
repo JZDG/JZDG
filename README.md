@@ -58,70 +58,84 @@ public class JohnZ
 
 ---
 
-## 💡 Skills & Expertise
+## � GitHub Stats
 
-```text
-C# / .NET           ████████████████████░   95%
-WPF / XAML           ████████████████████░   93%
-SQL Server           ███████████████████░░   90%
-ASP.NET Web API      ███████████████████░░   90%
-Entity Framework     ███████████████████░░   88%
-Flutter / Dart       ████████████████░░░░░   80%
-TCP / Networking     ████████████████░░░░░   78%
-HTML / CSS / JS      ███████████████░░░░░░   75%
-Git / GitHub         ████████████████░░░░░   80%
-UI / UX Design       ██████████████░░░░░░░   70%
-```
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=johnz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnz&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
+
+</div>
 
 ---
 
-## 🧰 What I Build
+## 📈 Contribution Graph
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**🖥️ Desktop Applications**
-- WPF apps with MVVM pattern
-- Real-time audio/video systems
-- Custom TCP socket communication
-- Windows installers (Inno Setup)
-- Auto-update mechanisms
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" />
 
-</td>
-<td width="50%">
-
-**📱 Mobile & Cross-Platform**
-- Flutter apps (Android, iOS, Web)
-- Provider state management
-- REST API integration
-- Real-time data streaming
-- Responsive UI with dark themes
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⚡ Backend & APIs**
-- ASP.NET Web API 2 services
-- Entity Framework 6 Code-First
-- SQL Server stored procedures
-- Session-based authentication
-- File upload & management
-
-</td>
-<td width="50%">
-
-**🌐 Web & Admin Panels**
-- ASP.NET MVC 5 applications
-- Kendo UI data grids
-- Metronic admin themes
-- Server-side paging & filtering
-- Role-based access control
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=johnz&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+
+</div>
+
+---
+
+## 🔭 Currently Working On
+
+- 🏗️ Building enterprise-grade real-time communication platforms
+- 📱 Cross-platform mobile apps with Flutter
+- 🖥️ Desktop applications with WPF and .NET 8
+- 🔌 Custom binary protocols for media streaming
+- 📦 Professional Windows installers with Inno Setup
+- 🎨 Collaborative whiteboard tools with real-time sync
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnz@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=johnz&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br><br>
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<br>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnz/johnz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnz/johnz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/johnz/johnz/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br><br>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1a2e&height=120&section=footer" width="100%" />
+
+</div>
