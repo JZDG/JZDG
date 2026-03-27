@@ -5,8 +5,8 @@
 **Location:** Philippines 🇵🇭  
 **Role:** Developer / Builder  
 
-I am a passionate developer focused on building scalable and efficient applications.  
-I enjoy working across different technologies and continuously improving my skills in software development.
+Passionate about building scalable, efficient, and user-focused applications.  
+Continuously learning and improving across web, mobile, and software development.
 
 ---
 
@@ -29,28 +29,48 @@ I enjoy working across different technologies and continuously improving my skil
 
 ---
 
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JZDG&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JZDG&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JZDG&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
 ## 💼 PROFESSIONAL SUMMARY
 
-- 💻 Experienced in **Web, Mobile, and Software Development**
-- 📱 Building cross-platform apps using **Flutter & Dart**
-- ⚙️ Strong foundation in **frontend & backend integration**
-- 🔍 Focused on writing **clean, maintainable, and scalable code**
-- 🤝 Open for collaboration and real-world projects
+- 💻 Web, Mobile, and Software Development  
+- 📱 Cross-platform apps using Flutter & Dart  
+- ⚙️ Clean, scalable, and maintainable code  
+- 🤝 Open for collaboration and projects  
 
 ---
 
 ## 📌 CURRENT FOCUS
 
-- 🚀 Improving system design & architecture  
-- 📱 Enhancing mobile app performance  
-- 🌐 Expanding full-stack development skills  
+- 🚀 System design & architecture  
+- 📱 Mobile performance optimization  
+- 🌐 Full-stack development  
 
 ---
 
 ## 📫 CONTACT
 
 - GitHub: https://github.com/JZDG  
-- Open for collaboration and opportunities  
 
 ---
 
