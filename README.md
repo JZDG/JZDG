@@ -30,16 +30,15 @@ public class JohnZ
 
 <div align="center">
 
-<!-- REPLACE: YOUR_USERNAME with your actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=JZDG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JZDG&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="60%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JZDG&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
 
 </div>
 
@@ -77,14 +76,17 @@ public class JohnZ
 
 <div align="center">
 
-<!-- REPLACE: YOUR_USERNAME with your actual GitHub username -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=40c463&point=c9d1d9&area=true&area_color=238636" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JZDG&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=40c463&point=c9d1d9&area=true&area_color=238636&radius=6" width="95%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JZDG&theme=github_dark" width="95%" />
 
 </div>
 
 ---
 
-## � Currently Working On
+## 🚀 Currently Working On
 
 - 🏗️ Building enterprise-grade real-time communication platforms
 - 📱 Cross-platform mobile apps with Flutter
@@ -99,8 +101,8 @@ public class JohnZ
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JZDG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JZDG)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
@@ -109,7 +111,7 @@ public class JohnZ
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=JZDG&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br><br>
 
