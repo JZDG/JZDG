@@ -86,17 +86,6 @@ public class JZDG
 
 ---
 
-## 🚀 Currently Working On
-
-- 🏗️ Building enterprise-grade real-time communication platforms
-- 📱 Cross-platform mobile apps with Flutter
-- 🖥️ Desktop applications with WPF and .NET 8
-- 🔌 Custom binary protocols for media streaming
-- 📦 Professional Windows installers with Inno Setup
-- 🎨 Collaborative whiteboard tools with real-time sync
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
