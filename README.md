@@ -1,13 +1,16 @@
-## `// ABOUT ME`
+## 👋 ABOUT ME
 
-name:     John Zel De Guzman
-location: Philippines 🇵🇭
-role:     Developer / Builder
-focus:    [ Web Dev, Mobile, Software Engineering ]
+**Name:** John Zel De Guzman  
+**Username:** JZDG  
+**Location:** Philippines 🇵🇭  
+**Role:** Developer / Builder  
+
+I am a passionate developer focused on building scalable and efficient applications.  
+I enjoy working across different technologies and continuously improving my skills in software development.
 
 ---
 
-## `// TECH STACK`
+## 🚀 TECH STACK
 
 <div align="center">
 
@@ -24,3 +27,31 @@ focus:    [ Web Dev, Mobile, Software Engineering ]
 
 </div>
 
+---
+
+## 💼 PROFESSIONAL SUMMARY
+
+- 💻 Experienced in **Web, Mobile, and Software Development**
+- 📱 Building cross-platform apps using **Flutter & Dart**
+- ⚙️ Strong foundation in **frontend & backend integration**
+- 🔍 Focused on writing **clean, maintainable, and scalable code**
+- 🤝 Open for collaboration and real-world projects
+
+---
+
+## 📌 CURRENT FOCUS
+
+- 🚀 Improving system design & architecture  
+- 📱 Enhancing mobile app performance  
+- 🌐 Expanding full-stack development skills  
+
+---
+
+## 📫 CONTACT
+
+- GitHub: https://github.com/JZDG  
+- Open for collaboration and opportunities  
+
+---
+
+⭐ *"Always building, always learning."*
