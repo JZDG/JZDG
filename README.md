@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1a2e&height=220&section=header&text=JZDG&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%F0%9F%87%B5%F0%9F%87%AD&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1a2e&height=220&section=header&text=John%20Z&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%F0%9F%87%B5%F0%9F%87%AD&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=.NET+%7C+Flutter+%7C+SQL+Server+%7C+WPF+Developer;Building+Real-Time+Communication+Systems;Turning+Ideas+Into+Working+Software" alt="Typing SVG" /></a>
@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 ```csharp
-public class JZDG
+public class JohnZ
 {
     public string Role        => "Full-Stack Software Engineer";
     public string Location    => "Philippines 🇵🇭";
